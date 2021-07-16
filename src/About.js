@@ -14,8 +14,7 @@ class About extends Component {
          beyond that it is a manifestation of evil. It is meaningful to consider the devil through the lens of each of the cultures
           and religions that have the devil as part of their mythos.</p><br></br>
 
-         <p>Sravan Sivadas</p>
-         <p>20181CSE0703</p><br></br>
+         <br></br>
          
       
       </div>
