@@ -7,7 +7,8 @@ class Contact extends Component {
   render() {
     return (
       <div classname="linkclass">
-         <br><p>By</p></br>
+         <p>By</p>
+         <br></br>
 
          <p>Name: Sravan Sivadas</p>
          <p>ID No. : 20181CSE0703</p><br></br>
